@@ -1,0 +1,21 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#container{
+    /* background-color: #b12d2d; */
+    cursor: pointer;
+    background-color: greenyellow;
+    padding: 5px 15px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 25px;
+    /* color: white; */
+}
+
+p:hover{
+    color: white;
+}
