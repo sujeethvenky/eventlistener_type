@@ -1,7 +1,4 @@
-// const input = document.querySelector('input-box');
-//keypress
 
-// The keypress event is fired when a key that produces a character value is pressed down.
 
 
 
